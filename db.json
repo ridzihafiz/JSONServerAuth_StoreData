@@ -1,0 +1,18 @@
+{
+  "siswa": [
+    {
+      "nama_lengkap": "Dolorem hic nihil un",
+      "usia": "20",
+      "alamat": "Voluptatem Dolorem ",
+      "wali_murid": "Dolorem hic inventor",
+      "id": 1
+    },
+    {
+      "nama_lengkap": "Amet similique haru",
+      "usia": "88",
+      "alamat": "Numquam porro et quo",
+      "wali_murid": "Facilis cillum aut u",
+      "id": 2
+    }
+  ]
+}
